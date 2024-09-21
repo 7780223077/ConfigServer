@@ -1,1 +1,0 @@
-#GIT_Course pratice
